@@ -1,4 +1,3 @@
-zdne.org
-========
+## zdne.org Website
 
-zdne.org web
+Built with [Wintersmith](http://jnordberg.github.com/wintersmith/).

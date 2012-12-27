@@ -1,0 +1,128 @@
+/*
+ *	General
+ */
+html {
+    background: #ffffff url(../img/background.png);
+}
+
+body {
+  	font-family: "ff-enzo-web",sans-serif;
+	font-size: 1.4em;
+	line-height: 1.6em;
+    background: url(../img/background_repeat.png) repeat-x;
+    border-top: 12px solid #ffffff;
+	color: #3a312a;
+	text-shadow: #ffffff 0px 1px 0px;		
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+	color: #3a312a;
+    padding-bottom: 2px;		
+    border-bottom: 2px solid rgba(58, 49, 42, 0);
+    -webkit-transition: all .5s linear;
+	-moz-transition: all .5s linear;
+	-o-transition: all .5s linear;
+}
+
+body:hover a {
+    border-bottom: 2px solid #3a312a;
+}
+
+body:hover a:hover {
+	color: #40e0d0;
+    border-color: #40e0d0;
+	text-shadow: rgba(64, 224, 208, 0.8) 0px 1px 10px;
+}
+
+strong {
+	font-weight: bold;
+}
+
+p {
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+}
+
+.separator {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+	margin-top: 3em;
+	margin-bottom: 3em;	
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+	text-align: center;
+}
+
+/*ul {
+		margin-left: 1em;
+		margin-bottom: 3em;
+}*/
+
+/*
+ *	Container
+ */
+#container {
+    padding: 15% 0 0 0;
+	margin-left:auto;
+	margin-right:auto;
+    width: 80%;
+    min-width: 320px;
+    max-width: 580px;
+    margin-bottom: 100px;
+}
+
+#fatHeaderContainer {
+    padding: 5% 0 0 0;
+	margin-left:auto;
+	margin-right:auto;
+    width: 80%;
+    min-width: 320px;
+    max-width: 580px;
+    margin-bottom: 100px;
+}
+
+/*
+ *	Header
+ */
+header {
+	line-height: 1.2em;
+	font-size: 1.8em;
+}
+
+header em {
+    -webkit-transition: all .5s linear;
+	-moz-transition: all .5s linear;
+	-o-transition: all .5s linear;		
+}
+
+header em:hover {
+	color: #40e0d0;
+	text-shadow: rgba(64, 224, 208, 0.8) 0px 1px 10px;
+}
+
+header img {
+	display: block;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+/*
+ *  Section 
+ */
+section {
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+}
+
+section h1 {
+	display: inline;
+	font-weight: bold;
+}

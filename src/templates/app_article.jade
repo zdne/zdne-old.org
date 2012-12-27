@@ -1,0 +1,9 @@
+extends layout
+
+block body
+  section#fatHeaderContainer
+    != page.html
+
+    footer
+        a(href='/' + page.metadata.app)
+            img.separator(src='/img/separator.png')
