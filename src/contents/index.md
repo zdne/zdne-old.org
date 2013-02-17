@@ -1,5 +1,7 @@
+---
 title: Zdeněk Němec
 template: index.jade
+---
 
 <header>
 **ZDENEK NEMEC** *DESIGNS* AND *CREATES* *COMPUTER* *PROGRAMS*. HE IS A *SOFTWARE* *DEVELOPER* *PURSUING* *BEAUTY*.
@@ -24,4 +26,4 @@ while(x=eval(x));
 //]]>
 </script>
 
-He is creator of [Passauthority](http://passauthority.com). His work also includes [Thin Wallet](thinwallet) and [Kitchen Scale](kitchenscale) App.
+He is author of [Core Dump](http://getcore.net) and creator of [Passauthority](http://passauthority.com). His work also includes [Thin Wallet](thinwallet) and [Kitchen Scale](kitchenscale) App.

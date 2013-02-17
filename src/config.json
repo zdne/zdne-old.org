@@ -1,5 +1,5 @@
 {
-  "output": "./../",
+  "output": "./../build",
   "locals": {
     "url": "http://zdne.org",
     "name": "Zdeněk Němec",
