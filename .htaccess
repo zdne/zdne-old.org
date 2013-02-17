@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^kitchenscale.zdne.org$ [NC]
+RewriteRule ^(.*)$ http://zdne.org/kitchenscale [L]
+
+RewriteCond %{HTTP_HOST} ^((?!kitchenscale).*)\.zdne\.org$ [NC]
+RewriteRule ^(.*)$ http://zdne.org [L]
+
+ErrorDocument 404 /404.html
