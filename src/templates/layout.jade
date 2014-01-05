@@ -1,4 +1,4 @@
-!!! 5
+doctype html
 html(lang='en')
   head
     block head
@@ -10,9 +10,9 @@ html(lang='en')
       link(rel='stylesheet', media='screen and (min-device-width: 481px)', href='/css/style.css')
       link(rel='stylesheet', media='only screen and (max-device-width: 480px)', href='/css/mobile.css')
       script(type='text/javascript', src='http://use.typekit.com/qim7ujl.js')
-      script
+      script.
         try{Typekit.load();}catch(e){}
-      // if IE
+        // if IE
         script(src=locals.url + '/js/html5.js')
 
   body
