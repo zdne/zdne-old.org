@@ -26,4 +26,4 @@ while(x=eval(x));
 //]]>
 </script>
 
-He is author of [Core Dump](http://getcore.net) and creator of [Passauthority](http://passauthority.com). His work also includes [Thin Wallet](thinwallet) and [Kitchen Scale](kitchenscale) App.
+He is author of [API Blueprint](http://apiblueprint.org) and [Core Dump App](http://getcore.net). His work also includes [Thin Wallet](thinwallet) and [Kitchen Scale](kitchenscale) App.

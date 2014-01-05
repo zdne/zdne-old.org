@@ -1,7 +1,9 @@
+---
 title: Kitchen Scale
 template: app.jade
 storelink: http://itunes.apple.com/en/app/kitchen-scale/id501162124
 app: kitchenscale
+---
 
 <header>
 ![Kitchen Scale](img/logo.png)

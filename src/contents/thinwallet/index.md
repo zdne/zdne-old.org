@@ -1,7 +1,9 @@
+---
 title: Thin Wallet
 template: app.jade
 storelink: http://itunes.apple.com/en/app/thin-wallet/id525301255
 app: thinwallet
+---
 
 <header>
 ![Thin Wallet](img/logo.png)
