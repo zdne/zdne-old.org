@@ -1,14 +1,14 @@
+---
 title: Thin Wallet Support
 template: app_article.jade
 app: thinwallet
+---
 
 <header>
 **THIN WALLET** *SUPPORT*.
 </header>
 
 **Frequently Asked Questions.** Bellow you can find the most frequent questions about Thin Wallet and its future.
-
-**What about Passbook?** We have prepared new application for early adopters – [Passhop](http://passhop.passauthority.com). Direct Passbook support in Thin Wallet is planned for users who purchased the unlimited version.
 
 **How about making barcodes bigger to improve scanning?** We have run a lot of tests including full screen barcode display. Unfortunately the conclusion is that the physical barcode size has no effect on the reliability of scan.
 

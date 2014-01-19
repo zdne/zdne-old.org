@@ -26,4 +26,4 @@ while(x=eval(x));
 //]]>
 </script>
 
-He is author of [API Blueprint](http://apiblueprint.org) and [Core Dump App](http://getcore.net). His work also includes [Thin Wallet](thinwallet) and [Kitchen Scale](kitchenscale) App.
+He is the author of [API Blueprint](http://apiblueprint.org) and creator of several iOS Apps.

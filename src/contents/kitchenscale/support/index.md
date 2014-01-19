@@ -1,6 +1,8 @@
+---
 title: Kitchen Scale Support
 template: app_article.jade
 app: kitchenscale
+---
 
 <header>
 **KITCHEN SCALE** *SUPPORT*.
