@@ -1,0 +1,32 @@
+{
+  "name": "I AM Z",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zdne/zdne.org.git",
+  "authors": [
+    "@zdne"
+  ],
+  "description": "Zdenek Nemec",
+  "main": "index.html",
+  "keywords": [
+    "zdenek nemec",
+    "zdne",
+    "api",
+    "rest",
+    "design",
+    "web",
+    "restful",
+    "hypermedia",
+    "semantics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.6"
+  }
+}
