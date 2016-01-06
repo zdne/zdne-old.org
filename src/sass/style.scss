@@ -63,14 +63,14 @@ body {
   background-image: url('../../public/img/bg_big.jpg');
   background-position: right bottom;
   background-position-x: right;
-  background-position-y: bottom;
+  background-position-y: 75%;
   background-color: #DDE0D5;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: contain;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   color: $color-primary-0;
 }
 
