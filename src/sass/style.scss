@@ -66,6 +66,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: contain;
+  background-origin: content-box;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
