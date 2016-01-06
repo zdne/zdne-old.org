@@ -60,12 +60,15 @@ $rgba-secondary-2-4: rgba(166,121, 44,1);
 
 body {
   padding-top: 50px;
-  background: #DDE0D5 url('../../public/img/bg_big.jpg') no-repeat right bottom fixed;
-  background-size: 100% auto;
+  background-image: url('../../public/img/bg_big.jpg');
+  background-position: right bottom;
+  background-color: #DDE0D5;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
-  background-size: contain;
   color: $color-primary-0;
 }
 
