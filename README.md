@@ -1,4 +1,4 @@
-# Zdenek Nemec's personal site
+# Z's personal site
 
 <http://zdne.org>
 
