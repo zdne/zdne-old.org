@@ -16,7 +16,7 @@ gulp.task('bower', function() { 
 });
 
 gulp.task('fonts', function() { 
-  return gulp.src(config.bowerDir + '/fontawesome/fonts/**.*') 
+  return gulp.src(config.bowerDir + '/font-awesome/fonts/**.*') 
     .pipe(gulp.dest(config.outDir + '/fonts')); 
 });
 
@@ -32,7 +32,7 @@ gulp.task('css', function() { 
     includePaths: [
       config.sassDir,
       config.bowerDir + '/bootstrap-sass-official/assets/stylesheets',
-      config.bowerDir + '/fontawesome/scss',
+      config.bowerDir + '/font-awesome/scss',
     ]
   }) 
   .on("error", notify.onError(function (error) {
@@ -47,4 +47,4 @@ gulp.task('css', function() { 
 });
 
 // Default tasks
-gulp.task('default', ['bower', 'css', 'js']);
+gulp.task('default', ['bower', 'css', 'js', 'fonts']);
