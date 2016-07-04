@@ -18,7 +18,7 @@ Z is interested in organizational structures, systems understanding, semantics a
 
 # Professional Experience
 
-Joined the startup among the frist employees. Fulfilled many roles in the fast-growing environment.
+Joined the startup among the first employees. Fulfilled many roles in the fast-growing environment.
 
 ## [Apiary.io][]
 _**Director of Domain-specific language Development, November 2012 — Present**_
@@ -27,7 +27,7 @@ _**Director of Domain-specific language Development, November 2012 — Prese
 
 ### Research
 
-Leading research in the field of API and semantics. Pioneering a new ways in data modeling.
+Lead the research in the field of API and semantics. Pioneered new ways in data modeling.
 
 Defined the term API design. Made the company a trend-setter in the API design space. Lead both internal and external education.
 
@@ -67,7 +67,7 @@ Tools:
 
 ### Product Manager
 
-Designed accessible way for everybody to describe a discuss an API. Invented an approachable data modelling language to encourage the description of data.
+Designed accessible way for everybody to describe and discuss an API. Invented an approachable data modeling language to encourage the description of data.
 
 Created several Apiary core technologies and formats. This enabled Apiary to build amazing tools and facilitate the design, development and consumption of modern APIs.
 
@@ -114,7 +114,7 @@ This was the start of the popular API description language, that has changed the
 ## Independent Developer
 _**Self employed, September 2012 — January 2013**_
 
-Authored loyalty cards app “Thin Wallet” which has ranked #161 on the U.S. App Store in the Top free apps.
+Authored loyalty cards app “Thin Wallet” which has ranked #161 on the US App Store in the Top free apps.
 
 Built break-through app and service for Apple Passbook “Passauthority.com” which was banned by Apple in winter 2012.
 
@@ -164,7 +164,7 @@ Developed a geographical information system (GIS) server. Later, designed and de
 
 # Education
 
-## [Faculty of Nuclear Sciences and Physical Engineering][fjfi], CTU in Prague Prague,
+## [Faculty of Nuclear Sciences and Physical Engineering][fjfi], CTU in Prague,
 _**October 2004 — January 2008, [Completed years 1–3]**_
 
 Software engineering and economics
@@ -174,7 +174,7 @@ Software engineering and economics
 ---
 
 ## [Institute of Economic Studies, Faculty of  Social Sciences][ies], Charles University in Prague
-_**Prague — 2006**_
+_** 2006**_
 
 Courses of Microeconomics
 
@@ -183,7 +183,7 @@ Courses of Microeconomics
 ---
 
 ## [University of Economics][vse], Prague
-_**Prague — 2008**_
+_**2008**_
 
 Courses of Macroeconomics, Operations research and Management science
 
@@ -217,7 +217,7 @@ Prefer no code to untested code
 
 Platforms: macOS, iOS, Linux, Windows and Facebook Messenger platform
 
-Languages: C, Objective-C, C++, Swift, Ruby, ES6, C# and Python.
+Languages: C, Objective-C, C++, Swift, Ruby, ES6, C# and Python
 
 Frameworks: Node.js, Rails, Cocoa(Touch)
 
