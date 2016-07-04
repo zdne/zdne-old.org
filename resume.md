@@ -8,13 +8,21 @@ Zdenek Nemec<br>
 
 **Helping engineers to design, communicate and understand systems.**
 
-It does not matter who I am but what I do.
+_Motto: It doesn't matter who I am but what I do._
 
-Zdenek “Z” Nemec is a computer systems researcher, creator and architect. He is the author of the innovative API description language API Blueprint and also the author of the data modeling language MSON. He currently works at Apiary as the Director for domain specific languages, product manager and research lead for API design.
+Zdenek "Z" Nemec has created several computer systems. The most popular were a loyalty cards mobile application used by hundreds of thousands customers to make their shopping experience easier, and an API description language used by over 200 thousands of developers to describe at least 300 thousands APIs in an accessible way.
 
-He has a strong background in distributed systems, including client and user experience design. Z loves interacting with users and customers as well as helping them to succeed.
+While both of these are seemingly unrelated, targeting very different audiences, they have the same objective: To simplify the life of its users and to keep the focus on the subject.
+
+He made the data modelling more accessible to developers with his data description language MSON. This encouraged new ways of thinking and data-manipulation tools.
+
+He has a strong background in distributed systems and user experience design. Zdenek advised several global companies with their APIs design and implementation processes. He loves interacting with users and customers as well as helping them to succeed.
+
+Recently Z has built the first dating bot for the Facebook Messenger platform. This bot facilitates the discovery of potentially matching people with the minimal entry barrier. 
 
 Z is interested in organizational structures, systems understanding, semantics and data modeling. He is an advocate of Conway’s Law and therefore puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
+
+---
 
 # Professional Experience
 
@@ -93,21 +101,21 @@ Help major global corporations and individuals alike to succeed with their API p
 
 Launched the first Apiary Social Media marketing campaign. Created Apiary's engagement, education, lead-generating, demand-generating and performance content.
 
-Proposed and implemented the first Apiary performance marketing campaign. 
+Proposed and implemented the first Apiary performance marketing campaign.
 
-Brought new users, leads and customers to Apiary.  
+Brought new users, leads and customers to Apiary.
 
 Founded the Apiary marketing strategy and coordinated the marketing activities at Apiary.
 
 ### Project Manager & Team Lead
 
-Led a team of developers working on the API description product. The team has delivered well high-performance API description language parser as well as its infrastructure. 
+Led a team of developers working on the API description product. The team has delivered well high-performance API description language parser as well as its infrastructure.
 
 ### Developer
 
 Developed the first version of API Blueprint parser and its bindings to Node.js and Ruby.
 
-This was the start of the popular API description language, that has changed the way APIs are developed today. 
+This was the start of the popular API description language, that has changed the way APIs are developed today.
 
 ---
 
