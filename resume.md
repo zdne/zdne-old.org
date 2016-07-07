@@ -84,7 +84,7 @@ Designed an accessible way for everybody to describe and discuss an API. Invente
 
 Created several Apiary core technologies and formats. This enabled Apiary to build amazing tools and facilitated the design, development and consumption of modern APIs.
 
-Led the product development in the areas of API design and description.
+Led the product development in the areas of API design and description. Listened and interacted with customers. Coordinated API design and description product with the rest of the company.
 
 ### Developer Relation
 
