@@ -10,15 +10,15 @@ Zdenek Nemec<br>
 
 _Motto: It doesn't matter who I am but what I do._
 
-Zdenek "Z" Nemec has created several computer systems. The most popular were a loyalty cards mobile application used by hundreds of thousands customers to make their shopping experience easier, and an API description language used by over 200 thousands of developers to describe at least 300 thousands APIs in an accessible way.
+Zdenek "Z" Nemec has created several computer systems. The most popular were a loyalty cards mobile application used by hundreds of thousands of customers to make their shopping experience easier and an API description language used by over 200,000 developers to describe at least 300,0000 APIs in an accessible way.
 
-While both of these are seemingly unrelated, targeting very different audiences, they have the same objective: To simplify the life of its users and to keep the focus on the subject.
+While both of these are seemingly unrelated and target very different audiences, they have the same objective: to simplify the life of its users and to keep the focus on the subject.
 
-He made the data modelling more accessible to developers with his data description language MSON. This encouraged new ways of thinking and data-manipulation tools.
+He made data modeling more accessible to developers with his data description language MSON. This encouraged new ways of thinking and prompted next-generation data manipulation tools.
 
-He has a strong background in distributed systems and user experience design. Zdenek advised several global companies with their APIs design and implementation processes. He loves interacting with users and customers as well as helping them to succeed.
+He has a strong background in distributed systems and user experience design. Zdenek advised several global companies with their API design and implementation processes. He loves interacting with users and customers as well as helping them to succeed.
 
-Recently Z has built the first dating bot for the Facebook Messenger platform. This bot facilitates the discovery of potentially matching people with the minimal entry barrier. 
+Recently Z has built the first dating bot for the Facebook Messenger platform. This bot facilitates the discovery of potentially matching people with the minimal entry barrier.
 
 Z is interested in organizational structures, systems understanding, semantics and data modeling. He is an advocate of Conway’s Law and therefore puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
 
@@ -29,15 +29,15 @@ Z is interested in organizational structures, systems understanding, semantics a
 Joined the startup among the first employees. Fulfilled many roles in the fast-growing environment.
 
 ## [Apiary.io][]
-_**Director of Domain-specific language Development, November 2012 — Present**_
+_**Director of Domain-Specific Language Development, November 2012 — Present**_
 
 [Apiary.io]: https://apiary.io
 
 ### Research
 
-Lead the research in the field of API and semantics. Pioneered new ways in data modeling.
+Led the research in the field of API and semantics. Pioneered new ways in data modeling.
 
-Defined the term API design. Made the company a trend-setter in the API design space. Lead both internal and external education.
+Defined the term API design. Made the company a trend-setter in the API design space. Led both internal and external education.
 
 ### Author
 
@@ -61,14 +61,14 @@ Description languages and format specifications:
 
 Educational sites and publications:
 
-- **[How to build an API][]**— Microsite and a printed white paper, a complete walk-through for building an API project.
+- **[How to build an API][]**— Complete walk-through for building an API project
 
 [How to build an API]: https://apiary.io/how-to-build-api
 
 Tools:
 
 - **[Hypermedia project][]** — Lowering the barrier to create and consume hypermedia systems
-- **[Fury][]**   —API Description infrastructure (SDK)
+- **[Fury][]** —API Description infrastructure (SDK)
 
 [Hypermedia project]: https://github.com/the-hypermedia-project/
 [Fury]: https://github.com/apiaryio/fury.js
@@ -77,54 +77,54 @@ Tools:
 
 Designed accessible way for everybody to describe and discuss an API. Invented an approachable data modeling language to encourage the description of data.
 
-Created several Apiary core technologies and formats. This enabled Apiary to build amazing tools and facilitate the design, development and consumption of modern APIs.
+Created several Apiary core technologies and formats. This enabled Apiary to build amazing tools and facilitated the design, development and consumption of modern APIs.
 
 Led the product development in the areas of API design and description.
 
 ### Developer Relation
 
-Evangelized the API design and the use of Apiary.
+Evangelized API design and the use of Apiary.
 
 Helped developers to build great APIs and to understand the benefits of an upfront system design.
 
-API design, development and deployment consultation.
+Consulted in API design, development and deployment to help Apiary deploy its core product.
 
 ### Sales Support
 
-Pro-actively contributed to close the deals with the biggest Apiary customers.
+Proactively contributed to close the deals with large-scale enterprise customers.
 
 ### Customer Success
 
-Help major global corporations and individuals alike to succeed with their API projects.
+Helped major global enterprises and individuals alike to succeed with their API projects.
 
 ### Product Marketing Manager
 
 Launched the first Apiary Social Media marketing campaign. Created Apiary's engagement, education, lead-generating, demand-generating and performance content.
 
-Proposed and implemented the first Apiary performance marketing campaign.
+Founded the Apiary's marketing strategy and coordinated the marketing activities at Apiary. Proposed and implemented the first Apiary performance marketing campaign.
 
 Brought new users, leads and customers to Apiary.
 
-Founded the Apiary marketing strategy and coordinated the marketing activities at Apiary.
-
 ### Project Manager & Team Lead
 
-Led a team of developers working on the API description product. The team has delivered well high-performance API description language parser as well as its infrastructure.
+Led a team of developers working on the API description product. Team delivered the high-performance API description language parser as well as its infrastructure.
+
+TODO: expand
 
 ### Developer
 
 Developed the first version of API Blueprint parser and its bindings to Node.js and Ruby.
 
-This was the start of the popular API description language, that has changed the way APIs are developed today.
+Authored the popular API description language that changed the way APIs are developed today.
 
 ---
 
 ## Independent Developer
 _**Self employed, September 2012 — January 2013**_
 
-Authored loyalty cards app “Thin Wallet” which has ranked #161 on the US App Store in the Top free apps.
+Authored loyalty cards app “Thin Wallet” which ranked #161 on the US App Store in the Top free apps.
 
-Built break-through app and service for Apple Passbook “Passauthority.com” which was banned by Apple in winter 2012.
+Built break-through app and service for Apple Passbook “Passauthority.com” which was replaced by Apple Wallet.
 
 ---
 
@@ -133,7 +133,7 @@ _**R&D Engineer, August 2008 — September 2012**_
 
 Developed interactive pre-press and packaging tools and designed their user interfaces. Built fast and robust multithreaded client to a proprietary CMS.
 
-Improved company's product quality by introducing the test-driven approach on a global scale. Agile and testing evangelist.
+Improved the company's product quality by introducing the test-driven approach on a global scale. Acted as agile and testing evangelist.
 
 Helped to prolong existing contracts during many customer visits in Japan. Helped to establish and run a new R&D team in Shanghai, China.
 
@@ -144,9 +144,9 @@ Helped to prolong existing contracts during many customer visits in Japan. Helpe
 ## [MapFactor][]
 _**Product manager for PDA, January 2003 — August 2008**_
 
-Designed and developed the very first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I've invented.
+Designed and developed the first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I've invented.
 
-Built a prototype of bluetooth GPS client and a personal tracking application in Java.
+Built a prototype of a bluetooth GPS client and a personal tracking application in Java.
 
 [MapFactor]: https://www.mapfactor.com/en/
 
@@ -157,7 +157,7 @@ _**STL developer, Open Source, 2002 — 2004**_
 
 Made STLPort more robust and available on new platforms.
 
-Ported the STLport library to the Windows Mobile platform and OS X. Introduced unit-testing and test-driven development to the STLPort project.
+Ported the STLport library to the Windows Mobile platform and OS X. Introduced unit testing and test-driven development to the STLPort project.
 
 [STLPort]: http://www.stlport.org
 
@@ -166,7 +166,7 @@ Ported the STLport library to the Windows Mobile platform and OS X. Introduced u
 ## [MapFactor][]
 _**Developer, January 2000 — January 2003**_
 
-Developed a geographical information system (GIS) server. Later, designed and developed a multi-platform desktop navigation application.
+Developed a geographical information system (GIS) server. Designed and developed a multi-platform desktop navigation application.
 
 ---
 
@@ -205,6 +205,10 @@ Courses of Macroeconomics, Operations research and Management science
 
 Pathfinder
 
+Advisor
+
+Initiator
+
 Large project leadership
 
 Awesome written and verbal communication
@@ -215,9 +219,7 @@ Communication facilitator
 
 Starting projects
 
-Booting and on-boarding teams
-
-Open Source maintainer
+Educator
 
 Prefer no code to untested code
 
