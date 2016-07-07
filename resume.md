@@ -1,8 +1,12 @@
 # Résumé
-Zdenek Nemec<br>
-[zdne.org](http://zdne.org)<br>
-[@zdne](https://twitter.com/zdne)<br>
-[zdenek@me.com](mailto:zdenek@me.com)<br>
+
+Zdenek Nemec
+
+[zdne.org](http://zdne.org)
+
+[@zdne](https://twitter.com/zdne)
+
+[zdenek@me.com](mailto:zdenek@me.com)
 
 ## Summary
 
@@ -16,9 +20,9 @@ While both of these are seemingly unrelated and target very different audiences,
 
 Z made data modeling more accessible to developers with his data description language MSON. This encouraged new ways of thinking and prompted the next-generation of data manipulation tools.
 
-He has a strong background in distributed systems and user experience design. Zdenek advised several enterprise companies with their API design and implementation processes. He loves interacting with users and customers as well as helping them to succeed.
-
 Recently Z has built the first dating bot for the Facebook Messenger platform. This bot facilitates the discovery of potentially matching people with the minimal entry barrier.
+
+He has a strong background in distributed systems and user experience design. Zdenek advised several enterprise companies with their API design and implementation processes. He loves interacting with users and customers as well as helping them to succeed.
 
 Z is interested in organizational structures, systems understanding, semantics and data modeling. He is an advocate of Conway’s Law and therefore puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
 
@@ -26,12 +30,13 @@ Z is interested in organizational structures, systems understanding, semantics a
 
 # Professional Experience
 
-Joined the startup among the first employees. Fulfilled many roles in the fast-growing environment.
+## [Apiary.io][Apiary]
 
-## [Apiary.io][]
 _**Director of Domain-Specific Language Development, November 2012 — Present**_
 
-[Apiary.io]: https://apiary.io
+Joined the startup among the first employees. Fulfilled many roles in the fast-growing, ever-changing environment. Hired or introduced to the company over 25% of current employees. 
+
+[Apiary]: https://apiary.io
 
 ### Research
 
@@ -47,11 +52,11 @@ Authored several description languages and format specifications.
 
 Description languages and format specifications:
 
-- **[API Blueprint][]** — API description language
-- **[MSON][]** — Ground breaking data modeling language
-- **[Resource Blueprint][]** — Conceptual (finite state) system description language
-- **[Refract][]** — Recursive data structure for expressing complex structures, relationships, and metadata.
-- **[API Elements][]** — Elements of API description
+- **[API Blueprint][API Blueprint]** — API description language
+- **[MSON][MSON]** — Ground breaking data modeling language
+- **[Resource Blueprint][Resource Blueprint]** — Conceptual (finite state) system description language
+- **[Refract][Refract]** — Recursive data structure for expressing complex structures, relationships, and metadata.
+- **[API Elements][API Elements]** — Elements of API description
 
 [API Blueprint]: https://apiblueprint.org
 [MSON]: https://github.com/apiaryio/mson
@@ -61,14 +66,14 @@ Description languages and format specifications:
 
 Educational sites and publications:
 
-- **[How to build an API][]**— Complete walk-through for building an API project
+- **[How to build an API][How to build an API]**— Complete walk-through for building an API project
 
 [How to build an API]: https://apiary.io/how-to-build-api
 
 Tools:
 
-- **[Hypermedia project][]** — Lowering the barrier to create and consume hypermedia systems
-- **[Fury][]** —API Description infrastructure (SDK)
+- **[Hypermedia project][Hypermedia project]** — Lowering the barrier to create and consume hypermedia systems
+- **[Fury][Fury]** —API Description infrastructure (SDK)
 
 [Hypermedia project]: https://github.com/the-hypermedia-project/
 [Fury]: https://github.com/apiaryio/fury.js
@@ -91,11 +96,11 @@ Consulted in API design, development and deployment to help Apiary deploy its co
 
 ### Sales Support
 
-Proactively contributed to close the deals with large-scale enterprise customers.
+Proactively contributed to close the deals with large-scale enterprise customers. 
 
 ### Customer Success
 
-Helped major global enterprises and individuals alike to succeed with their API projects.
+Helped major global enterprises and individuals alike to succeed with their API projects. Listened to customer needs. Offered solutions and helped with the implementation. 
 
 ### Product Marketing Manager
 
@@ -107,9 +112,7 @@ Brought new users, leads and customers to Apiary.
 
 ### Project Manager & Team Lead
 
-Led a team of developers working on the API description product. Team delivered the high-performance API description language parser as well as its infrastructure.
-
-TODO: expand
+Led a team of developers working on the API description product. Team delivered the high-performance API description language parser that is the backbone of Apiary SaaS infrastructure.
 
 ### Developer
 
@@ -120,6 +123,7 @@ Authored the popular API description language that changed the way APIs are deve
 ---
 
 ## Independent Developer
+
 _**Self employed, September 2012 — January 2013**_
 
 Authored loyalty cards app “Thin Wallet” which ranked #161 on the US App Store in the Top free apps.
@@ -128,7 +132,8 @@ Built break-through app and service for Apple Passbook “Passauthority.com” w
 
 ---
 
-## [Esko][]
+## [Esko][Esko]
+
 _**R&D Engineer, August 2008 — September 2012**_
 
 Developed interactive pre-press and packaging tools and designed their user interfaces. Built fast and robust multithreaded client to a proprietary CMS.
@@ -141,7 +146,8 @@ Helped to prolong existing contracts during many customer visits in Japan. Helpe
 
 ---
 
-## [MapFactor][]
+## [MapFactor][MapFactor]
+
 _**Product manager for PDA, January 2003 — August 2008**_
 
 Designed and developed the first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I've invented.
@@ -152,7 +158,8 @@ Built a prototype of a bluetooth GPS client and a personal tracking application 
 
 ---
 
-## [STLPort][]
+## [STLPort][STLPort]
+
 _**STL developer, Open Source, 2002 — 2004**_
 
 Made STLPort more robust and available on new platforms.
@@ -163,7 +170,8 @@ Ported the STLport library to the Windows Mobile platform and OS X. Introduced u
 
 ---
 
-## [MapFactor][]
+## [MapFactor][MapFactor]
+
 _**Developer, January 2000 — January 2003**_
 
 Developed a geographical information system (GIS) server. Designed and developed a multi-platform desktop navigation application.
@@ -173,6 +181,7 @@ Developed a geographical information system (GIS) server. Designed and developed
 # Education
 
 ## [Faculty of Nuclear Sciences and Physical Engineering][fjfi], CTU in Prague,
+
 _**October 2004 — January 2008, [Completed years 1–3]**_
 
 Software engineering and economics
@@ -182,6 +191,7 @@ Software engineering and economics
 ---
 
 ## [Institute of Economic Studies, Faculty of  Social Sciences][ies], Charles University in Prague
+
 _** 2006**_
 
 Courses of Microeconomics
@@ -191,6 +201,7 @@ Courses of Microeconomics
 ---
 
 ## [University of Economics][vse], Prague
+
 _**2008**_
 
 Courses of Macroeconomics, Operations research and Management science
