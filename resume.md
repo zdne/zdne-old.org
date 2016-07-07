@@ -10,13 +10,13 @@ Zdenek Nemec<br>
 
 _Motto: It doesn't matter who I am but what I do._
 
-Zdenek "Z" Nemec has created several computer systems. The most popular were a loyalty cards mobile application used by hundreds of thousands of customers to make their shopping experience easier and an API description language used by over 200,000 developers to describe at least 300,0000 APIs in an accessible way.
+Zdenek "Z" Nemec has created several computer systems. The most popular were a loyalty cards mobile application used by hundreds of thousands of customers to make their shopping experience easier and an API description language used by over 200,000 developers to describe at least 300,000 APIs.
 
 While both of these are seemingly unrelated and target very different audiences, they have the same objective: to simplify the life of its users and to keep the focus on the subject.
 
-He made data modeling more accessible to developers with his data description language MSON. This encouraged new ways of thinking and prompted next-generation data manipulation tools.
+Z made data modeling more accessible to developers with his data description language MSON. This encouraged new ways of thinking and prompted the next-generation of data manipulation tools.
 
-He has a strong background in distributed systems and user experience design. Zdenek advised several global companies with their API design and implementation processes. He loves interacting with users and customers as well as helping them to succeed.
+He has a strong background in distributed systems and user experience design. Zdenek advised several enterprise companies with their API design and implementation processes. He loves interacting with users and customers as well as helping them to succeed.
 
 Recently Z has built the first dating bot for the Facebook Messenger platform. This bot facilitates the discovery of potentially matching people with the minimal entry barrier.
 
