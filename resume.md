@@ -112,6 +112,8 @@ Brought new users, leads and customers to Apiary.
 
 ### Project Manager & Team Lead
 
+Established and led the first distributed engineering team in Apiary.
+
 Led a team of developers working on the API description product. Team delivered the high-performance API description language parser that is the backbone of Apiary SaaS infrastructure.
 
 ### Developer
