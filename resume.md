@@ -75,7 +75,7 @@ Tools:
 
 ### Product Manager
 
-Designed accessible way for everybody to describe and discuss an API. Invented an approachable data modeling language to encourage the description of data.
+Designed an accessible way for everybody to describe and discuss an API. Invented an approachable data modeling language to encourage the description of data.
 
 Created several Apiary core technologies and formats. This enabled Apiary to build amazing tools and facilitated the design, development and consumption of modern APIs.
 
