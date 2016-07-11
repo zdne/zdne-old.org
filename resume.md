@@ -12,8 +12,6 @@ Zdenek Nemec
 
 **Helping engineers to design, communicate and understand systems.**
 
-_Motto: It doesn't matter who I am but what I do._
-
 Zdenek "Z" Nemec has created several computer systems. The most popular were a loyalty cards mobile application used by hundreds of thousands of customers to make their shopping experience easier and an API description language used by over 200,000 developers to describe at least 300,000 APIs.
 
 While both of these are seemingly unrelated and target very different audiences, they have the same objective: to simplify the life of its users and to keep the focus on the subject.
