@@ -1,30 +1,57 @@
-# Résumé
+# ZDENEK NEMEC
+**Creator • Pathfinder • Leader**
 
-Zdenek Nemec
+[zdne.org](http://zdne.org) • [z@zdne.org](mailto:z@zdne.org) • Twitter: [@zdne](https://twitter.com/zdne) • GitHub: [@zdne](https://github.com/zdne) • EU: +420 606 672 284 • US: +1 (312) 709-5985
 
-[zdne.org](http://zdne.org)
+---
 
-[@zdne](https://twitter.com/zdne)
-
-[zdenek@me.com](mailto:zdenek@me.com)
-
-## Summary
+# Summary of Qualifications
 
 **Helping engineers to design, communicate and understand systems.**
 
-_Motto: It doesn't matter who I am but what I do._
+- Creates revolutionary computer systems, connects company structures and people minds.
+- Over 16 years of software research, development and management experience.
+- Entrepreneurial, creative thought leader.
+- Advises several Fortune 500 companies with their API design and implementation processes.
+- Experience growing and mentoring startup companies.
+- Makes data modeling accessible to developers with his data description language MSON. Encourages new ways of thinking and prompts the next-generation of data manipulation tools.
+- Author and overseer of an API description language used by over 200,000 developers to describe at least 300,000 APIs.
+- Made API design possible.
+- Built and run the first dating bot for the Facebook Messenger platform. Facilitates the discovery of potentially matching people while minimizing the entry barrier.
+- Dramatically simplified shopping experience for hundreds of thousands of customers with his loyalty cards mobile application.
+- Strong background in distributed systems and user experience design.
+- Loves interacting with customers and helping them to succeed.
+- Advocate of Conway’s Law and, puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
 
-Zdenek "Z" Nemec has created several computer systems. The most popular were a loyalty cards mobile application used by hundreds of thousands of customers to make their shopping experience easier and an API description language used by over 200,000 developers to describe at least 300,000 APIs.
+---
 
-While both of these are seemingly unrelated and target very different audiences, they have the same objective: to simplify the life of its users and to keep the focus on the subject.
-
-Z made data modeling more accessible to developers with his data description language MSON. This encouraged new ways of thinking and prompted the next-generation of data manipulation tools.
-
-Recently Z has built the first dating bot for the Facebook Messenger platform. This bot facilitates the discovery of potentially matching people with the minimal entry barrier.
-
-He has a strong background in distributed systems and user experience design. Zdenek advised several enterprise companies with their API design and implementation processes. He loves interacting with users and customers as well as helping them to succeed.
-
-Z is interested in organizational structures, systems understanding, semantics and data modeling. He is an advocate of Conway’s Law and therefore puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Creator</li>
+        <li>Pathfinder</li>
+        <li>Initiator</li>
+        <li>Leader</li>
+        <li>Educator</li>
+        <li>Advisor</li>
+        <li>Awesome written and verbal communication</li>
+        <li>Avid conference speaker</li>
+        <li>Communication facilitator</li>
+        <li>Strong business acumen</li>
+        <li>Prefer no code to untested code</li>
+      </ul>
+    </td>
+    <td>
+    <p>**Platforms**: macOS, iOS, Linux, Windows and Facebook Messenger platform</p>
+    <p>**Languages**: C, Objective-C, C++, Swift, Ruby, JavaScript / ES6, GraphQL, C# and Python</p>
+    <p>**Frameworks**: Node.js, Ruby on Rails, Cocoa(Touch), React + Redux + GraphQL</p>
+    <p>**Databases**: PostgreSQL, MongoDB</p>
+    <p>**Architecture/Programming**: Distributed systems, Architectural styles, Data modeling, Semantics, API Design</p>
+    <p>**Tools**: Heroku, GitHub, New Relic, Google Analytics, Facebook Business Manager</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -34,19 +61,23 @@ Z is interested in organizational structures, systems understanding, semantics a
 
 _**Director of Domain-Specific Language Development, November 2012 — Present**_
 
-Joined the startup among the first employees. Fulfilled many roles in the fast-growing, ever-changing environment. Hired or introduced to the company over 25% of current employees. 
+Joined the startup among the first employees. Fulfilled many roles in the fast-growing, ever-changing environment.
+
+Defined the term API design. Turned the company into trend-setter in the API design space. Authored the popular API description language that changed the way APIs are developed today.
+
+Hired or introduced to the company over 25% of current employees.
 
 [Apiary]: https://apiary.io
 
 ### Research
 
-Led the research in the field of API and semantics. Pioneered new ways in data modeling.
+Led the research in the field of API and semantics. Proposed and evangelized the API flow. Pioneered new ways in data modeling. The resulting languages and methodologies are now used by individuals and enterprises around the world to build next-generation APIs.
 
-Defined the term API design. Made the company a trend-setter in the API design space. Led both internal and external education.
+Led both internal and external education and communication.
 
 ### Author
 
-Authored several description languages and format specifications.
+Authored and co-authored several description languages and format specifications.
 
 #### Contributed Works
 
@@ -78,6 +109,10 @@ Tools:
 [Hypermedia project]: https://github.com/the-hypermedia-project/
 [Fury]: https://github.com/apiaryio/fury.js
 
+### Project Manager & Team Lead
+
+Assembled and led team of developers working on the API description product. The team delivered high-performance API description language parser that is now the backbone of Apiary infrastructure.
+
 ### Product Manager
 
 Designed an accessible way for everybody to describe and discuss an API. Invented an approachable data modeling language to encourage the description of data.
@@ -85,6 +120,14 @@ Designed an accessible way for everybody to describe and discuss an API. Invente
 Created several Apiary core technologies and formats. This enabled Apiary to build amazing tools and facilitated the design, development and consumption of modern APIs.
 
 Led the product development in the areas of API design and description. Listened and interacted with customers. Coordinated API design and description product with the rest of the company.
+
+### Product Marketing Manager
+
+Launched the first Apiary Social Media marketing campaign. Created Apiary's engagement, education, lead-generating, demand-generating and performance content.
+
+Founded the Apiary's marketing strategy and coordinated the marketing activities at Apiary. Implemented the first Apiary performance marketing campaign.
+
+Brought new users, leads and customers to Apiary.
 
 ### Developer Relation
 
@@ -96,29 +139,20 @@ Consulted in API design, development and deployment to help Apiary deploy its co
 
 ### Sales Support
 
-Proactively contributed to close the deals with large-scale enterprise customers. 
+Proactively contributed to close several deals with large-scale enterprise customers.
 
 ### Customer Success
 
-Helped major global enterprises and individuals alike to succeed with their API projects. Listened to customer needs. Offered solutions and helped with the implementation. 
+Helped major global enterprises and individuals alike to succeed with their API projects. Listened to customer needs. Offered solutions and helped with the implementation.
 
-### Product Marketing Manager
+---
 
-Launched the first Apiary Social Media marketing campaign. Created Apiary's engagement, education, lead-generating, demand-generating and performance content.
+## [Meetalexa.com][Alexa]
+_**Co-founder, Summer 2016**_
 
-Founded the Apiary's marketing strategy and coordinated the marketing activities at Apiary. Proposed and implemented the first Apiary performance marketing campaign.
+Built the first dating bot for Facebook Messenger. Enabled Facebook Messenger user to discover other users from within the platform.
 
-Brought new users, leads and customers to Apiary.
-
-### Project Manager & Team Lead
-
-Led a team of developers working on the API description product. Team delivered the high-performance API description language parser that is the backbone of Apiary SaaS infrastructure.
-
-### Developer
-
-Developed the first version of API Blueprint parser and its bindings to Node.js and Ruby.
-
-Authored the popular API description language that changed the way APIs are developed today.
+[Alexa]: http://www.meetalexa.com/
 
 ---
 
@@ -184,7 +218,7 @@ Developed a geographical information system (GIS) server. Designed and developed
 
 _**October 2004 — January 2008, [Completed years 1–3]**_
 
-Software engineering and economics
+Software engineering and economics.
 
 [fjfi]: https://www.fjfi.cvut.cz/en/
 
@@ -194,7 +228,7 @@ Software engineering and economics
 
 _** 2006**_
 
-Courses of Microeconomics
+Courses of Microeconomics.
 
 [ies]: http://ies.fsv.cuni.cz/content/tree/index/lang/en
 
@@ -204,44 +238,8 @@ Courses of Microeconomics
 
 _**2008**_
 
-Courses of Macroeconomics, Operations research and Management science
+Courses of Macroeconomics, Operations research and Management science.
 
 [vse]: http://www.vse.cz/english/
 
 ---
-
-# Skills
-
-## Soft skills
-
-Pathfinder
-
-Advisor
-
-Initiator
-
-Large project leadership
-
-Awesome written and verbal communication
-
-Avid conference speaker
-
-Communication facilitator
-
-Starting projects
-
-Educator
-
-Prefer no code to untested code
-
-## Hard skills
-
-Platforms: macOS, iOS, Linux, Windows and Facebook Messenger platform
-
-Languages: C, Objective-C, C++, Swift, Ruby, ES6, C# and Python
-
-Frameworks: Node.js, Rails, Cocoa(Touch)
-
-Other: Distributed systems architectural styles, Data modeling
-
-Tools: Heroku, GitHub, New Relic, Google Analytics, Facebook Business Manager
