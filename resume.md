@@ -110,8 +110,7 @@ Tools:
 [Fury]: https://github.com/apiaryio/fury.js
 
 ### Project Manager & Team Lead
-
-Assembled and led team of developers working on the API description product. The team delivered high-performance API description language parser that is now the backbone of Apiary infrastructure.
+Assembled and led the first distributed engineering team in Apiary working on the API description product. Team delivered the high-performance API description language parser that is now the backbone of Apiary SAAS infrastructure.
 
 ### Product Manager
 
