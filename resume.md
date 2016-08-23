@@ -35,7 +35,6 @@
         <li>Leader</li>
         <li>Educator</li>
         <li>Advisor</li>
-        <li>Awesome written and verbal communication</li>
         <li>Avid conference speaker</li>
         <li>Communication facilitator</li>
         <li>Strong business acumen</li>
