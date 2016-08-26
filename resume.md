@@ -7,21 +7,29 @@
 
 # Summary of Qualifications
 
-**Helping engineers to design, communicate and understand systems.**
+**Delivering outstanding products. Helping engineers to design, communicate and understand systems.**
 
-- Creates revolutionary computer systems, connects company structures and people minds.
-- Over 16 years of software research, development and management experience.
+- Creates revolutionary computer systems, connects company structures and people's minds.
+- Author and product owner of several successful products.
 - Entrepreneurial, creative thought leader.
+- Over 16 years of software research, development and management experience.
 - Advises several Fortune 500 companies with their API design and implementation processes.
 - Experience growing and mentoring startup companies.
-- Makes data modeling accessible to developers with his data description language MSON. Encourages new ways of thinking and prompts the next-generation of data manipulation tools.
-- Author and overseer of an API description language used by over 200,000 developers to describe at least 300,000 APIs.
-- Made API design possible.
-- Built and run the first dating bot for the Facebook Messenger platform. Facilitates the discovery of potentially matching people while minimizing the entry barrier.
-- Dramatically simplified shopping experience for hundreds of thousands of customers with his loyalty cards mobile application.
-- Strong background in distributed systems and user experience design.
-- Loves interacting with customers and helping them to succeed.
-- Advocate of Conway’s Law and, puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
+- Recognized API expert and conference speaker.
+- Strong background in distributed systems.
+- Strong background in product, user experience (UX) and developer experience (DX) design.
+- Advocate of agile methodologies.
+- Master of the interaction with customers and partners.
+- Comfortable in every step a SW lifecycle: Research • Design • Development • Test • Delivery • Support • Sales • Marketing
+- Advocate of Conway’s Law. Puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
+
+
+### Product Highlights
+
+- Creator and maintainer of an API description language used by over 200,000 developers to describe at least 300,000 APIs.
+- Makes data modeling accessible with the data description language "MSON". Encourages new ways of thinking and prompts the next-generation of data manipulation tools.
+- Author of the first dating bot for the Facebook Messenger platform. Facilitates the discovery of potentially matching people while minimizing the entry barrier.
+- Creator of a popular loyalty cards mobile application. Dramatically improves the shopping experience for hundreds of thousands of customers.
 
 ---
 
@@ -33,6 +41,7 @@
         <li>Pathfinder</li>
         <li>Initiator</li>
         <li>Leader</li>
+        <li>Product Owner</li>
         <li>Educator</li>
         <li>Advisor</li>
         <li>Avid conference speaker</li>
@@ -48,6 +57,7 @@
     <p>**Databases**: PostgreSQL, MongoDB</p>
     <p>**Architecture/Programming**: Distributed systems, Architectural styles, Data modeling, Semantics, API Design</p>
     <p>**Tools**: Heroku, GitHub, New Relic, Google Analytics, Facebook Business Manager</p>
+    <p>**Methodologies**: Scrum, Kanban, TBS/Lean, Kaizen, Waterfall</p>
     </td>
   </tr>
 </table>
@@ -62,9 +72,9 @@ _**Director of Domain-Specific Language Development, November 2012 — Prese
 
 Joined the startup among the first employees. Fulfilled many roles in the fast-growing, ever-changing environment.
 
-Defined the term API design. Turned the company into trend-setter in the API design space. Authored the popular API description language that changed the way APIs are developed today.
+Defined the term API design. Turned the company into trend-setter in the API design space. Authored the popular API description language that has changed the way APIs are developed today.
 
-Hired or introduced to the company over 25% of current employees.
+Hired or introduced over 25% of current employees.
 
 [Apiary]: https://apiary.io
 
@@ -108,16 +118,17 @@ Tools:
 [Hypermedia project]: https://github.com/the-hypermedia-project/
 [Fury]: https://github.com/apiaryio/fury.js
 
-### Project Manager & Team Lead
-Assembled and led the first distributed engineering team in Apiary working on the API description product. Team delivered the high-performance API description language parser that is now the backbone of Apiary SAAS infrastructure.
-
-### Product Manager
+### Product Manager & Owner
 
 Designed an accessible way for everybody to describe and discuss an API. Invented an approachable data modeling language to encourage the description of data.
 
 Created several Apiary core technologies and formats. This enabled Apiary to build amazing tools and facilitated the design, development and consumption of modern APIs.
 
 Led the product development in the areas of API design and description. Listened and interacted with customers. Coordinated API design and description product with the rest of the company.
+
+### Project Manager & Team Lead
+
+Assembled and led the first distributed engineering team in Apiary working on the API description product. Team delivered the high-performance API description language parser that is now the backbone of Apiary SAAS infrastructure.
 
 ### Product Marketing Manager
 
