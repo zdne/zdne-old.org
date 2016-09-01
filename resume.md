@@ -20,16 +20,15 @@
 - Strong background in product, user experience (UX) and developer experience (DX) design.
 - Advocate of agile methodologies.
 - Master of the interaction with customers and partners.
-- Comfortable in every step a SW lifecycle: Research • Design • Development • Test • Delivery • Support • Sales • Marketing
+- Comfortable in the every step of SW lifecycle: Research • Design • Development • Test • Delivery • Support • Sales • Marketing
 - Advocate of Conway’s Law. Puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
-
 
 ### Product Highlights
 
-- Creator and maintainer of an API description language used by over 200,000 developers to describe at least 300,000 APIs.
-- Makes data modeling accessible with the data description language "MSON". Encourages new ways of thinking and prompts the next-generation of data manipulation tools.
-- Author of the first dating bot for the Facebook Messenger platform. Facilitates the discovery of potentially matching people while minimizing the entry barrier.
-- Creator of a popular loyalty cards mobile application. Dramatically improves the shopping experience for hundreds of thousands of customers.
+- Creator and maintainer of an API description language used by over 200,000 developers and product owners to describe over 300,000 APIs.
+- Co-Author of data modeling language ”MSON”. Encourages new ways of thinking and prompts the next-generation of data manipulation tools.
+- Author of the first dating bot for the Facebook Messenger platform. Facilitates a secure discovery of matching Facebook users.
+- Creator of a popular loyalty cards mobile application. Significantly improves the shopping experience for hundreds of thousands customers.
 
 ---
 
@@ -72,7 +71,7 @@ _**Director of Domain-Specific Language Development, November 2012 — Prese
 
 Joined the startup among the first employees. Fulfilled many roles in the fast-growing, ever-changing environment.
 
-Defined the term API design. Turned the company into trend-setter in the API design space. Authored the popular API description language that has changed the way APIs are developed today.
+Defined the term API design. Turned the company into trend-setter in the API design space. Authored the popular API description language. Changed the way APIs are developed today.
 
 Hired or introduced over 25% of current employees.
 
@@ -80,9 +79,9 @@ Hired or introduced over 25% of current employees.
 
 ### Research
 
-Led the research in the field of API and semantics. Proposed and evangelized the API flow. Pioneered new ways in data modeling. The resulting languages and methodologies are now used by individuals and enterprises around the world to build next-generation APIs.
+Lead the research in the field of API and semantics. Proposed and evangelized the API flow. Pioneered new ways in data modeling. Led both internal and external education.
 
-Led both internal and external education and communication.
+The resulting languages and methodologies are now used by individuals and enterprises around the world to build next-generation APIs.
 
 ### Author
 
@@ -92,10 +91,10 @@ Authored and co-authored several description languages and format specifications
 
 Description languages and format specifications:
 
-- **[API Blueprint][API Blueprint]** — API description language
+- **[API Blueprint][API Blueprint]** — Popular API description language
 - **[MSON][MSON]** — Ground breaking data modeling language
 - **[Resource Blueprint][Resource Blueprint]** — Conceptual (finite state) system description language
-- **[Refract][Refract]** — Recursive data structure for expressing complex structures, relationships, and metadata.
+- **[Refract][Refract]** — Recursive data structure for expressing complex structures, relationships, and metadata
 - **[API Elements][API Elements]** — Elements of API description
 
 [API Blueprint]: https://apiblueprint.org
@@ -106,60 +105,60 @@ Description languages and format specifications:
 
 Educational sites and publications:
 
-- **[How to build an API][How to build an API]**— Complete walk-through for building an API project
+- **[How to build an API][How to build an API]** — Complete walk-through for building an API project
 
 [How to build an API]: https://apiary.io/how-to-build-api
 
 Tools:
 
 - **[Hypermedia project][Hypermedia project]** — Lowering the barrier to create and consume hypermedia systems
-- **[Fury][Fury]** —API Description infrastructure (SDK)
+- **[Fury][Fury]** — API Description parser infrastructure (SDK)
 
 [Hypermedia project]: https://github.com/the-hypermedia-project/
 [Fury]: https://github.com/apiaryio/fury.js
 
 ### Product Manager & Owner
 
-Designed an accessible way for everybody to describe and discuss an API. Invented an approachable data modeling language to encourage the description of data.
+Designed an accessible way for everybody to describe and discuss APIs. Invented an approachable data modeling language to encourage the description of data.
 
-Created several Apiary core technologies and formats. This enabled Apiary to build amazing tools and facilitated the design, development and consumption of modern APIs.
+Created several Apiary core technologies and formats. Led the product development in the areas of API design and description. Coordinated API design and description product development with the rest of the company.
 
-Led the product development in the areas of API design and description. Listened and interacted with customers. Coordinated API design and description product with the rest of the company.
+Defined the term API design. Turned the company into the trend-setter in the API design space. Changed the way APIs are developed today.
 
 ### Project Manager & Team Lead
 
-Assembled and led the first distributed engineering team in Apiary working on the API description product. Team delivered the high-performance API description language parser that is now the backbone of Apiary SAAS infrastructure.
+Assembled and led the first fully distributed engineering team in Apiary.
+
+The team delivered high-performance language parser that is now the backbone of Apiary infrastructure.
 
 ### Product Marketing Manager
 
-Launched the first Apiary Social Media marketing campaign. Created Apiary's engagement, education, lead-generating, demand-generating and performance content.
+Launched the first Apiary social media marketing campaign. Created Apiary's engagement, education, lead-generating, demand-generating and performance content. Founded the Apiary's marketing strategy and coordinated the marketing activities at Apiary.
 
-Founded the Apiary's marketing strategy and coordinated the marketing activities at Apiary. Implemented the first Apiary performance marketing campaign.
+Introduced and implemented analytics, collected and interpreted the baseline measurements.
+
+Grew Apiary social media fan-base over 300% in 3 months while increasing content engagement by 400% month-to-month. Analyzed product, audiences and user flow in the product.
 
 Brought new users, leads and customers to Apiary.
 
 ### Developer Relation
 
-Evangelized API design and the use of Apiary.
-
-Helped developers to build great APIs and to understand the benefits of an upfront system design.
+Evangelized the API design and the use of Apiary. Helped developers to build great APIs and to understand the benefits of an upfront system design.
 
 Consulted in API design, development and deployment to help Apiary deploy its core product.
 
-### Sales Support
+### Sales Support & Customer Success
 
-Proactively contributed to close several deals with large-scale enterprise customers.
+Assisted major global enterprises and individuals alike in succeeding with their API projects. Collected customer needs. Offered solutions and assisted with the implementation. Kept customers engaged and satisfied.
 
-### Customer Success
-
-Helped major global enterprises and individuals alike to succeed with their API projects. Listened to customer needs. Offered solutions and helped with the implementation.
+Helped close several deals with large-scale enterprise customers.
 
 ---
 
 ## [Meetalexa.com][Alexa]
 _**Co-founder, Summer 2016**_
 
-Built the first dating bot for Facebook Messenger. Enabled Facebook Messenger user to discover other users from within the platform.
+Built the first dating bot for Facebook Messenger. Enabled Facebook Messenger users to discover each other from within the platform.
 
 [Alexa]: http://www.meetalexa.com/
 
@@ -169,9 +168,9 @@ Built the first dating bot for Facebook Messenger. Enabled Facebook Messenger us
 
 _**Self employed, September 2012 — January 2013**_
 
-Authored loyalty cards app “Thin Wallet” which ranked #161 on the US App Store in the Top free apps.
+Authored loyalty cards app “Thin Wallet” which ranked #161 on the US App Store in the Top free apps. Helped over 400 000 users to manage their loyalty cards and have a better shopping experience.
 
-Built break-through app and service for Apple Passbook “Passauthority.com” which was replaced by Apple Wallet.
+Built break-through app and service for Apple Passbook “Passauthority.com” which was later replaced by Apple Wallet.
 
 ---
 
@@ -179,11 +178,13 @@ Built break-through app and service for Apple Passbook “Passauthority.com” w
 
 _**R&D Engineer, August 2008 — September 2012**_
 
-Developed interactive pre-press and packaging tools and designed their user interfaces. Built fast and robust multithreaded client to a proprietary CMS.
+Developed interactive pre-press and packaging tools and designed user interfaces. Built fast and robust multithreaded client to a proprietary CMS.
 
-Improved the company's product quality by introducing the test-driven approach on a global scale. Acted as agile and testing evangelist.
+Improved the company's products quality by deploying the test-driven approach on a global scale. Acted as agile and testing evangelist.
 
-Helped to prolong existing contracts during many customer visits in Japan. Helped to establish and run a new R&D team in Shanghai, China.
+Personally contributed to company sales activities in the APAC region. Fostered business relations and secured sales deals during multiple customer visits in Japan.
+
+Helped to establish and run a new R&D team in Shanghai, PRC.
 
 [Esko]: https://www.esko.com
 
@@ -193,9 +194,9 @@ Helped to prolong existing contracts during many customer visits in Japan. Helpe
 
 _**Product manager for PDA, January 2003 — August 2008**_
 
-Designed and developed the first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I've invented.
+Designed and developed the first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I've invented. Built a prototype of a bluetooth GPS client and a personal tracking application in Java.
 
-Built a prototype of a bluetooth GPS client and a personal tracking application in Java.
+Enabled the future development of an innovative products in personal and automotive tracking and navigation.
 
 [MapFactor]: https://www.mapfactor.com/en/
 
@@ -205,9 +206,9 @@ Built a prototype of a bluetooth GPS client and a personal tracking application 
 
 _**STL developer, Open Source, 2002 — 2004**_
 
-Made STLPort more robust and available on new platforms.
+Introduced the core C++ library to the Windows Mobile platform. Ported STLPort to OS X. Introduced unit testing and test-driven development to the STLPort project.
 
-Ported the STLport library to the Windows Mobile platform and OS X. Introduced unit testing and test-driven development to the STLPort project.
+Made STLPort more robust and available on new platforms.
 
 [STLPort]: http://www.stlport.org
 
