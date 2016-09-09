@@ -9,7 +9,7 @@
 
 **Delivering outstanding products. Helping engineers to design, communicate and understand systems.**
 
-- Creates revolutionary computer systems, connects company structures and people's minds.
+- Creator of revolutionary computer systems, facilitator of organization structures.
 - Author and product owner of several successful products.
 - Entrepreneurial, creative thought leader.
 - Over 16 years of software research, development and management experience.
@@ -20,15 +20,15 @@
 - Strong background in product, user experience (UX) and developer experience (DX) design.
 - Advocate of agile methodologies.
 - Master of the interaction with customers and partners.
-- Comfortable in the every step of SW lifecycle: Research • Design • Development • Test • Delivery • Support • Sales • Marketing
+- Comfortable in the every step of software lifecycle: research, design, development, test, delivery, support, sales, marketing.
 - Advocate of Conway’s Law. Puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.
 
 ### Product Highlights
 
-- Creator and maintainer of an API description language used by over 200,000 developers and product owners to describe over 300,000 APIs.
-- Co-Author of data modeling language ”MSON”. Encourages new ways of thinking and prompts the next-generation of data manipulation tools.
-- Author of the first dating bot for the Facebook Messenger platform. Facilitates a secure discovery of matching Facebook users.
-- Creator of a popular loyalty cards mobile application. Significantly improves the shopping experience for hundreds of thousands customers.
+- Creator and maintainer of API Blueprint, an API description language used by over 200,000 developers and product owners to describe over 300,000 APIs.
+- Co-Author of data modeling language MSON. This language encourages new ways of thinking and prompts the next-generation of data manipulation tools.
+- Author of the first dating bot, Meet Alexa, for the Facebook Messenger platform. Meet Alexa facilitates a secure discovery of matching Facebook users.
+- Creator of a popular loyalty cards mobile application Thin Wallet which significantly improves the shopping experience for hundreds of thousands customers.
 
 ---
 
@@ -71,7 +71,7 @@ _**Director of Domain-Specific Language Development, November 2012 — Prese
 
 Joined the startup among the first employees. Fulfilled many roles in the fast-growing, ever-changing environment.
 
-Defined the term API design. Turned the company into trend-setter in the API design space. Authored the popular API description language. Changed the way APIs are developed today.
+Defined the term API design. Turned the company into a trend-setter in the API design space. Authored the popular API description language–API Blueprint. Changed the way APIs are developed today.
 
 Hired or introduced over 25% of current employees.
 
@@ -95,7 +95,7 @@ Description languages and format specifications:
 - **[MSON][MSON]** — Ground breaking data modeling language
 - **[Resource Blueprint][Resource Blueprint]** — Conceptual (finite state) system description language
 - **[Refract][Refract]** — Recursive data structure for expressing complex structures, relationships, and metadata
-- **[API Elements][API Elements]** — Elements of API description
+- **[API Elements][API Elements]** — Elements of an API description
 
 [API Blueprint]: https://apiblueprint.org
 [MSON]: https://github.com/apiaryio/mson
@@ -122,8 +122,6 @@ Tools:
 Designed an accessible way for everybody to describe and discuss APIs. Invented an approachable data modeling language to encourage the description of data.
 
 Created several Apiary core technologies and formats. Led the product development in the areas of API design and description. Coordinated API design and description product development with the rest of the company.
-
-Defined the term API design. Turned the company into the trend-setter in the API design space. Changed the way APIs are developed today.
 
 ### Project Manager & Team Lead
 
@@ -194,7 +192,7 @@ Helped to establish and run a new R&D team in Shanghai, PRC.
 
 _**Product manager for PDA, January 2003 — August 2008**_
 
-Designed and developed the first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I've invented. Built a prototype of a bluetooth GPS client and a personal tracking application in Java.
+Designed and developed the first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I invented. Built a prototype of a bluetooth GPS client and a personal tracking application in Java.
 
 Enabled the future development of an innovative products in personal and automotive tracking and navigation.
 

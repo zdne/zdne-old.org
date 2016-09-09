@@ -147,6 +147,23 @@ pre.editor-colors .wrap-guide,
 .host .wrap-guide {
   background-color: rgba(171, 178, 191, 0.15);
 }
+pre.editor-colors .find-result .region.region.region,
+.host .find-result .region.region.region,
+pre.editor-colors .current-result .region.region.region,
+.host .current-result .region.region.region {
+  border-radius: 0px;
+  background-color: rgba(82, 139, 255, 0.24);
+  transition: border-color 0.4s;
+}
+pre.editor-colors .find-result .region.region.region,
+.host .find-result .region.region.region {
+  border: 2px solid transparent;
+}
+pre.editor-colors .current-result .region.region.region,
+.host .current-result .region.region.region {
+  border: 2px solid #528bff;
+  transition-duration: .1s;
+}
 pre.editor-colors .gutter .line-number,
 .host .gutter .line-number {
   color: #636d83;
@@ -419,6 +436,9 @@ pre.editor-colors .fold-marker:after,
 .source.gfm .link .entity {
   color: #61afef;
 }
+.source.go .storage.type.string {
+  color: #c678dd;
+}
 .source.ini .keyword.other.definition.ini {
   color: #e06c75;
 }
@@ -427,6 +447,9 @@ pre.editor-colors .fold-marker:after,
 }
 .source.java .storage.type {
   color: #e5c07b;
+}
+.source.java .keyword.operator.instanceof {
+  color: #c678dd;
 }
 .source.java-properties .meta.key-pair {
   color: #e06c75;
@@ -480,7 +503,7 @@ pre.editor-colors .fold-marker:after,
 <h1 id="summary-of-qualifications">Summary of Qualifications</h1>
 <p><strong>Delivering outstanding products. Helping engineers to design, communicate and understand systems.</strong></p>
 <ul>
-<li>Creates revolutionary computer systems, connects company structures and people&#39;s minds.</li>
+<li>Creator of revolutionary computer systems, facilitator of organization structures.</li>
 <li>Author and product owner of several successful products.</li>
 <li>Entrepreneurial, creative thought leader.</li>
 <li>Over 16 years of software research, development and management experience.</li>
@@ -491,15 +514,15 @@ pre.editor-colors .fold-marker:after,
 <li>Strong background in product, user experience (UX) and developer experience (DX) design.</li>
 <li>Advocate of agile methodologies.</li>
 <li>Master of the interaction with customers and partners.</li>
-<li>Comfortable in the every step of SW lifecycle: Research • Design • Development • Test • Delivery • Support • Sales • Marketing</li>
+<li>Comfortable in the every step of software lifecycle: research, design, development, test, delivery, support, sales, marketing.</li>
 <li>Advocate of Conway’s Law. Puts strong emphasis on the quality and clarity of communication and the well-being of both teams and individuals.</li>
 </ul>
 <h3 id="product-highlights">Product Highlights</h3>
 <ul>
-<li>Creator and maintainer of an API description language used by over 200,000 developers and product owners to describe over 300,000 APIs.</li>
-<li>Co-Author of data modeling language ”MSON”. Encourages new ways of thinking and prompts the next-generation of data manipulation tools.</li>
-<li>Author of the first dating bot for the Facebook Messenger platform. Facilitates a secure discovery of matching Facebook users.</li>
-<li>Creator of a popular loyalty cards mobile application. Significantly improves the shopping experience for hundreds of thousands customers.</li>
+<li>Creator and maintainer of API Blueprint, an API description language used by over 200,000 developers and product owners to describe over 300,000 APIs.</li>
+<li>Co-Author of data modeling language MSON. This language encourages new ways of thinking and prompts the next-generation of data manipulation tools.</li>
+<li>Author of the first dating bot, Meet Alexa, for the Facebook Messenger platform. Meet Alexa facilitates a secure discovery of matching Facebook users.</li>
+<li>Creator of a popular loyalty cards mobile application Thin Wallet which significantly improves the shopping experience for hundreds of thousands customers.</li>
 </ul>
 <hr>
 <table>
@@ -536,7 +559,7 @@ pre.editor-colors .fold-marker:after,
 <h2 id="-apiary-io-apiary-"><a href="https://apiary.io">Apiary.io</a></h2>
 <p><em><strong>Director of Domain-Specific Language Development, November 2012 — Present</strong></em></p>
 <p>Joined the startup among the first employees. Fulfilled many roles in the fast-growing, ever-changing environment.</p>
-<p>Defined the term API design. Turned the company into trend-setter in the API design space. Authored the popular API description language. Changed the way APIs are developed today.</p>
+<p>Defined the term API design. Turned the company into a trend-setter in the API design space. Authored the popular API description language–API Blueprint. Changed the way APIs are developed today.</p>
 <p>Hired or introduced over 25% of current employees.</p>
 <h3 id="research">Research</h3>
 <p>Lead the research in the field of API and semantics. Proposed and evangelized the API flow. Pioneered new ways in data modeling. Led both internal and external education.</p>
@@ -550,7 +573,7 @@ pre.editor-colors .fold-marker:after,
 <li><strong><a href="https://github.com/apiaryio/mson">MSON</a></strong> — Ground breaking data modeling language</li>
 <li><strong><a href="https://github.com/resource-blueprint/resource-blueprint">Resource Blueprint</a></strong> — Conceptual (finite state) system description language</li>
 <li><strong><a href="https://github.com/refractproject/refract-spec">Refract</a></strong> — Recursive data structure for expressing complex structures, relationships, and metadata</li>
-<li><strong><a href="http://api-elements.readthedocs.org/en/latest/">API Elements</a></strong> — Elements of API description</li>
+<li><strong><a href="http://api-elements.readthedocs.org/en/latest/">API Elements</a></strong> — Elements of an API description</li>
 </ul>
 <p>Educational sites and publications:</p>
 <ul>
@@ -564,7 +587,6 @@ pre.editor-colors .fold-marker:after,
 <h3 id="product-manager-owner">Product Manager &amp; Owner</h3>
 <p>Designed an accessible way for everybody to describe and discuss APIs. Invented an approachable data modeling language to encourage the description of data.</p>
 <p>Created several Apiary core technologies and formats. Led the product development in the areas of API design and description. Coordinated API design and description product development with the rest of the company.</p>
-<p>Defined the term API design. Turned the company into the trend-setter in the API design space. Changed the way APIs are developed today.</p>
 <h3 id="project-manager-team-lead">Project Manager &amp; Team Lead</h3>
 <p>Assembled and led the first fully distributed engineering team in Apiary.</p>
 <p>The team delivered high-performance language parser that is now the backbone of Apiary infrastructure.</p>
@@ -598,7 +620,7 @@ pre.editor-colors .fold-marker:after,
 <hr>
 <h2 id="-mapfactor-mapfactor-"><a href="https://www.mapfactor.com/en/">MapFactor</a></h2>
 <p><em><strong>Product manager for PDA, January 2003 — August 2008</strong></em></p>
-<p>Designed and developed the first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I&#39;ve invented. Built a prototype of a bluetooth GPS client and a personal tracking application in Java.</p>
+<p>Designed and developed the first version of a popular car navigation application. Made long-distance routing possible thanks the custom memory allocators I invented. Built a prototype of a bluetooth GPS client and a personal tracking application in Java.</p>
 <p>Enabled the future development of an innovative products in personal and automotive tracking and navigation.</p>
 <hr>
 <h2 id="-stlport-stlport-"><a href="http://www.stlport.org">STLPort</a></h2>
